@@ -826,37 +826,6 @@ plt.tight_layout()
 plt.show()
 print("Realisations of the process {V_k}.")
 
-""" Code to check indivdual parts of the program.
-
-# To check states per turn:
-print("----------------------------------------")
-print("Escenario ",0,", turno ",1)
-print(MatX[0][1])
-print("Escenario ",2,", turno ",3)
-print(MatX[2][3])
-print("Escenario ",4,", turno ",5)
-print(MatX[4][5])
-
-# To check the components of the states per turn:
-#print("----------------------------------------")
-#print("Componentes NO son flotantes")
-#print("Escenario ",0,", turno ",1," componente ",0)
-#print(MatX[0][1][0])
-#print("Escenario ",2,", turno ",3," componente ",1)
-#print(MatX[2][3][1])
-#print("Escenario ",4,", turno ",5," componente ",0)
-#print(MatX[4][5][0])
-
-# To check states in an iteration:
-#print("----------------------------------------")
-#print("Estados")
-#print("Escenario ",0,", todos los turnos.")
-#print(MatX[0])
-#print("Escenario ",2,", todos los turnos.")
-#print(MatX[2])
-#print("Escenario ",4,", todos los turnos.")
-#print(MatX[4])
-"""
 
 print("----------------------------------------")
 print("End")
