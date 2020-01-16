@@ -1,2 +1,3 @@
-# Zero-sum-stochastic-game-w-random-rules-of-priority-Discrete-linear-quadratic-model
-Script for article
+# Zero sum stochastic game with random rules of priority: Discrete linear-quadratic model.
+
+This is the script that the article uses.
